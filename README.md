@@ -3,8 +3,6 @@
 ## Sobre mim
 Sou estudante na bolsa **Oracle Next Education (ONE)**, com foco em me tornar um **Desenvolvedor Full Stack**. Atualmente, estou em transição de carreira e tenho dedicado meu tempo ao aprendizado e à construção de um portfólio sólido em lógica de programação, desenvolvimento web, software e dados, com alguns projetos já desenvolvidos.
 
-Minha experiência prévia em atendimento e outras áreas me ajudou a desenvolver habilidades como comunicação clara, resolução de problemas e trabalho em equipe, que pretendo aplicar para acelerar meu crescimento na área de tecnologia.
-
 ## Contato
 📫 [LinkedIn](https://www.linkedin.com/in/caiotodev/)  
 💻 [GitHub](https://github.com/Acheron-o)  
