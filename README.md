@@ -5,19 +5,23 @@ Sou estudante na bolsa **Oracle Next Education (ONE)**, com foco em me tornar um
 
 Minha experiência prévia em atendimento e outras áreas me ajudou a desenvolver habilidades como comunicação clara, resolução de problemas e trabalho em equipe, que pretendo aplicar para acelerar meu crescimento na área de tecnologia.
 
+## Contato
+📫 [LinkedIn](https://www.linkedin.com/in/caiotodev/)  
+💻 [GitHub](https://github.com/Acheron-o)  
+
 ## Repositórios Recentes
 <div>
-  <a href="https://github.com/caio/University-Projects/">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=caio&repo=University-Projects&show_owner=true&theme=dark" />
+  <a href="https://github.com/Acheron-o/University-Projects/">
+  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=Acheron-o&repo=University-Projects&show_owner=true&theme=dark" />
   </a>
-  <a href="https://github.com/caio/Fourteam-Projeto-3">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=caio&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" />
+  <a href="https://github.com/Acheron-o/Fourteam-Projeto-3">
+  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=Acheron-o&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" />
   </a>
-  <a href="https://github.com/caio/Fourteam-Projeto-5">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=caio&repo=Fourteam-Projeto-5&show_owner=true&theme=dark" />
+  <a href="https://github.com/Acheron-o/Fourteam-Projeto-5">
+  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=Acheron-o&repo=Fourteam-Projeto-5&show_owner=true&theme=dark" />
   </a>
-  <a href="https://github.com/caio/Lau/">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=caio&repo=Lau&show_owner=true&theme=dark" />
+  <a href="https://github.com/Acheron-o/Lau/">
+  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=Acheron-o&repo=Lau&show_owner=true&theme=dark" />
   </a>
 </div> 
 <br> 
@@ -45,16 +49,16 @@ Minha experiência prévia em atendimento e outras áreas me ajudou a desenvolve
 
 ## GitHub Stats
 <div class="stats" >
-  <a href="https://github.com/caio/">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=caio&hide_border=true&theme=dark" />
+  <a href="https://github.com/Acheron-o/">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=Acheron-o&hide_border=true&theme=dark" />
   </a>
-  <a href="https://github.com/caio/">
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio&layout=compact&hide_border=true&theme=dark" />
+  <a href="https://github.com/Acheron-o/">
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acheron-o&layout=compact&hide_border=true&theme=dark" />
   </a>
 </div>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caio/caio/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caio/caio/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caio/caio/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acheron-o/Acheron-o/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Acheron-o/Acheron-o/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Acheron-o/Acheron-o/output/github-contribution-grid-snake.svg">
 </picture>
