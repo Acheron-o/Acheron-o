@@ -34,11 +34,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-
 #### Studying in this moment:
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
@@ -64,4 +59,4 @@
 <a href = "mailto:caio.dev.person@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
