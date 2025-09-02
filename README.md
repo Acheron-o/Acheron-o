@@ -34,6 +34,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
