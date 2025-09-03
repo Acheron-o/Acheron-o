@@ -57,7 +57,7 @@ My ambition is to become a software engineer who develops innovative and sustain
 
 ## 💻  Workstation Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,linux,github,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,windows,github,androidstudio)](https://skillicons.dev)
 
 &nbsp;
 
