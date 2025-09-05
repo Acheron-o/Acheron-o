@@ -45,7 +45,7 @@ My ambition is to become a software engineer who develops innovative and sustain
 
 #### Studying in this moment:
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,kotlin,java)](https://skillicons.dev)
 
 
 #### Databases:
