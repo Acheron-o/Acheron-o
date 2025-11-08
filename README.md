@@ -4,7 +4,7 @@
 &nbsp;
 
 🎓 A student of **Computer Engineering** at Oracle Next Education.  
-💻 Passionate about **Software Engineering** and **Software Automatation**  
+💻 Passionate about **Software Engineering** and **Smart Automation**  
 📚 Always learning something new 
 
 ## 📊 My Stats
