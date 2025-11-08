@@ -1,13 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=top&"/>
+# 👋 Hi, I'm mands!
+
 
 # Hello, I'm Caio Pereira! 👋
 
 &nbsp;
 
-<p align="center" style="margin-bottom:10px; padding: 10px" >I'm a Software Engineering Student.
-I am currently advancing my skills through the Oracle Next Education (ONE) program, a transformative partnership between Oracle and Alura Latam.
-My ambition is to become a software engineer who develops innovative and sustainable software solutions to solve complex problems. I am passionate about contributing to impactful, scalable projects that drive positive change and sustainability in the tech industry.</p>
-&nbsp;
+🎓 A student of **Computer Engineering** at Oracle Next Education.  
+💻 Passionate about **Software Engineering** and **Software Automatation**  
+📚 Always learning something new 
 
 ## 📊 My Stats
 
@@ -38,12 +39,12 @@ My ambition is to become a software engineer who develops innovative and sustain
 
 #### Studying in this moment:
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
 
 #### Databases:
 
-
+[![My Skills](https://skillicons.dev/icons?i=mysql,sql)](https://skillicons.dev)
 
 
 &nbsp;
