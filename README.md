@@ -33,7 +33,7 @@
 
 ## 🛠️ Technologies I'm learning
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,opencv,pandas,cpp,java,spring&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,opencv,django,cpp,java,spring&perline=3)](https://skillicons.dev)
 
 
 &nbsp;
