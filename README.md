@@ -1,7 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=top&"/>
-# 👋 Hi, I'm mands!
-
-
 # Hello, I'm Caio Pereira! 👋
 
 &nbsp;
