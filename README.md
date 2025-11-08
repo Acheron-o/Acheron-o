@@ -31,20 +31,9 @@
 <br>
 &nbsp;
 
-## 🛠️ My Skills
+## 🛠️ Technologies I'm learning
 
-#### Main Stack:
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
-#### Studying in this moment:
-
-[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
-
-
-#### Databases:
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,opencv,pandas,cpp,java,spring&perline=3)](https://skillicons.dev)
 
 
 &nbsp;
