@@ -1,53 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=top&"/>
-# Hello, I'm Caio Pereira! 👋
-
-&nbsp;
-
-🎓 A student of **Computer Engineering** at Oracle Next Education.  
-💻 Passionate about **Software Engineering** and **Smart Automation**  
-📚 Always learning something new 
-
-## 📊 My Stats
-
-&nbsp;
+<h1 align="center">Hi, I'm Caio dos Santos Pereira 👋</h1>
+<h3 align="center">A passionate Computer Engineering student from Brazil</h3>
 
 <p align="center">
-  <img 
-    align="center" 
-    alt="Estatísticas do GitHub" 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api?username=Acheron-o&show_icons=true&bg_color=1E3A8A&text_color=FFFFFF&icon_color=0D9488&title_color=FFFFFF&border_color=FFFFFF&include_all_commits=true" 
-  />
-  <img 
-    align="center" 
-    alt="Linguagens Mais Usadas" 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acheron-o&bg_color=1E3A8A&text_color=FFFFFF&icon_color=0D9488&title_color=FFFFFF&border_color=FFFFFF&layout=compact" 
-  />
+  <a href="https://github.com/Acheron-o">My GitHub</a> •
+  <a href="www.linkedin.com/in/caiotodev">LinkedIn</a> •
+  <a href="mailto:caio.dev.person@gmail.com">Email</a>
 </p>
-<br>
-&nbsp;
 
-## 🛠️ Technologies I'm learning
+---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,opencv,django,cpp,java,spring&perline=3)](https://skillicons.dev)
+### 🧑‍💻 About Me
 
+I am a dedicated technology student currently specializing with **Oracle Next Education (ONE)**. I am deeply ambitious in the tech field, with a strong desire to contribute to meaningful projects while being on a path of constant evolution and learning.
 
-&nbsp;
+My primary technological interests lie in **Computer Engineering**, with a specific focus on **Automation, Artificial Intelligence (AI), and the Internet of Things (AIoT)**. I am passionate about building intelligent systems that bridge the digital and physical worlds.
 
-## 💻  Workstation Tools:
+### 🛠️ Skills and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,windows,github,androidstudio)](https://skillicons.dev)
+| Category        | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**   | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Libraries & Frameworks** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-1A73E8?style=for-the-badge)                                                                                                                                                                               |
+| **Tools & IDEs** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)                                                                                              |
 
-&nbsp;
+### 📚 Education
 
-## 📫 Contacts:
+*   **Oracle Next Education (ONE)** - Specialization program in collaboration with Alura Latam[citation:4][citation:8].
 
-<div> 
-<a href="https://www.linkedin.com/in/caiotodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href = "mailto:caio.dev.person@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+### 📫 Let's Connect
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=bottom&"/>
+- **LinkedIn:** [www.linkedin.com/in/caiotodev](www.linkedin.com/in/caiotodev)
+- **Email:** [caio.dev.person@gmail.com](mailto:caio.dev.person@gmail.com)
+- **GitHub:** [https://github.com/Acheron-o](https://github.com/Acheron-o)
 
-
+---
+<p align="center">⚡ <i>Keep coding, keep evolving!</i> ⚡</p>
