@@ -15,6 +15,16 @@ I am a dedicated technology student currently specializing with **Oracle Next Ed
 
 My primary technological interests lie in **Computer Engineering**, with a specific focus on **Automation, Artificial Intelligence (AI), and the Internet of Things (AIoT)**. I am passionate about building intelligent systems that bridge the digital and physical worlds.
 
+### 📊 GitHub Statistics
+
+<div align="center">
+  
+  ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acheron-o&show_icons=true&theme=default&rank_icon=github&border_radius=8)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Acheron-o&theme=default&hide_border=false)
+  
+</div>
+
 ### 🛠️ Skills and Technologies
 
 | Category        | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -25,7 +35,7 @@ My primary technological interests lie in **Computer Engineering**, with a speci
 
 ### 📚 Education
 
-*   **Oracle Next Education (ONE)** - Specialization program in collaboration with Alura Latam[citation:4][citation:8].
+*   **Oracle Next Education (ONE)** - Specialization program in collaboration with Alura Latam.
 
 ### 📫 Let's Connect
 
