@@ -95,21 +95,6 @@
 ### 📚 Education
 *   **Oracle Next Education (ONE)** - Specialization program in collaboration with Alura Latam.
 
-<!-- Support -->
-<h3 align="center">💝 Support My Work</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/" target="_blank">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<!-- Footer GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Tech GIF" style="width:100%; height:auto" />
-</div>
-
-<br>
-
 ---
 <p align="center">⚡ <i>Keep coding, keep evolving!</i> ⚡</p>
 
