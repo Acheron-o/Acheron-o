@@ -3,8 +3,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhlanNqdDlvYnAwcTh0aDV5ZnZqNzA2MzV3dDNocnR0eGFzZGIwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mloI6o1BENj4jfepYI/giphy.gif" alt="Coding GIF" style="width:100%; height:auto" />
 </div>
 
-<h1 align="center">Hi, I'm Caio dos Santos Pereira 👋</h1>
-<h3 align="center">A passionate Computer Engineering student from Brazil</h3>
+<h1 align="center">Hi, I'm Caio👋</h1>
 
 <!-- Profile Badges -->
 <div align="center">
