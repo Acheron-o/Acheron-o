@@ -54,41 +54,6 @@
 
 <br>
 
-<!-- Top Languages -->
-<h3 align="center">💻 Most Used Languages</h3>
-<div align="center">
-</div>
-
-<br>
-
-<!-- Languages & Tools -->
-<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,vscode,androidstudio,idea" /><br>
-  <img src="https://skillicons.dev/icons?i=opencv,pandas,git,github,eclipse,stackoverflow,visualstudio" /><br>
-  <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,arduino,raspberrypi,nodejs,tensorflow" /><br>
-</div>
-
-<br>
-
-<!-- Tech Stack -->
-<h3 align="center">🛠️ Tech Stack</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br>
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-</div>
-
-<br>
 
 ### 📚 Education
 *   **Oracle Next Education (ONE)** - Specialization program in collaboration with Alura Latam.
