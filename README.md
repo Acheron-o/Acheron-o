@@ -27,30 +27,6 @@
 
 <br>
 
-### 🔗 Connect with Me
-<div align="center">
-  <a href="mailto:caio.dev.person@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="55"/>
-  </a>
-  <a href="www.linkedin.com/in/caiotodev" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="55"/>
-  </a>
-  <a href="https://github.com/Acheron-o" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="55"/>
-  </a>
-</div>
-
-<br>
-
-<!-- GitHub Status -->
-<h3 align="center">🌱 GitHub Status</h3>
-<div align="center">
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Acheron-o&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
-</div>
-
-<br>
-
-
 ### 📚 Education
 *   **Oracle Next Education (ONE)** - Specialization program in collaboration with Alura Latam.
 
