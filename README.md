@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhlanNqdDlvYnAwcTh0aDV5ZnZqNzA2MzV3dDNocnR0eGFzZGIwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mloI6o1BENj4jfepYI/giphy.gif" alt="Coding GIF" style="width:100%; height:auto" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQ4c2I4Y29mYXBydWl4cmJwZ3BiZjBkbnJjb25najRldDgxbnZucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aXhxTv6Qzidx6wWatp/giphy.gif" alt="Coding GIF" style="width:100%; height:auto" />
 </div>
 
 <h1 align="center">Hi, I'm Caio👋</h1>
