@@ -22,7 +22,7 @@
 
   I am a dedicated technology student currently specializing with **Oracle Next Education (ONE)**. I am deeply ambitious in the tech field, with a strong desire to contribute to meaningful projects while being on a path of constant evolution and learning.
 
-  My primary technological interests lie in **Computer Engineering**, with a specific focus on **Automation, Artificial Intelligence (AI), and the Internet of Things (AIoT)**. I am passionate about building intelligent systems that bridge the digital and physical worlds.
+  My primary technological interests lie in **Digital Solutions** with a specific focus on **Software Development, AI Research, and Machine Learning**. I am passionate about building projects and contribuing in solutions that will be helpful and        useful in a lot of different fields.
 </div>
 
 <br>
