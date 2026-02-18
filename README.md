@@ -1,38 +1,14 @@
-<!-- Header GIF -->
-
-<h1 align="center">Hi, I'm Caio👋</h1>
-
-<!-- Profile Badges -->
 <div align="center">
-  <!-- Profile Views -->
-  <a href="https://github.com/Acheron-o" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Acheron-o&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
 
-  <!-- Followers -->
-  <a href="https://github.com/Acheron-o?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Acheron-o?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
-</div>
+# hey, I'm Caio
 
-<br>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHh1cmI1YWp3b2kwdXh5MnNzZ21odmw4dTVyZzNrZ25jMHlnOHF0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/enj50kao8gMfu/giphy.gif" width="200"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR0NGljZWxtbmszNGltNnlxM2hnNG5ndG5meGhtc2hlemNnNWsyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aLmFULfCe7CgIGcFi1/giphy.webp" width="200"/>
 
-<div align="center">
-  <img align="right" alt="coding-gif" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR0NGljZWxtbmszNGltNnlxM2hnNG5ndG5meGhtc2hlemNnNWsyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aLmFULfCe7CgIGcFi1/giphy.webp" />
+open source contributor in the making. AI and security are where my head is at.
 
-  ### 🧑‍💻 About Me
+still figuring out the exact path — building and learning in public in the meantime.
 
-  I am a dedicated technology student currently specializing with **Oracle Next Education (ONE)**. I am deeply ambitious in the tech field, with a strong desire to contribute to meaningful projects while being on a path of constant evolution and learning.
+📫 [contact]
 
-  My primary technological interests lie in **Digital Solutions** with a specific focus on **Software Development, AI Research, and Machine Learning**. I am passionate about building projects and contribuing in solutions that will be helpful and        useful in a lot of different fields.
-</div>
-
-<br>
-
-### 📚 Education
-*   **Oracle Next Education (ONE)** - Specialization program in collaboration with Alura Latam.
-
----
-<p align="center">⚡ <i>Keep coding, keep evolving!</i> ⚡</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%" height="1" />
 </div>
