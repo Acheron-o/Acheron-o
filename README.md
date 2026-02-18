@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img align="right" alt="coding-gif" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JuOTd2b3ljemg5Nm5yYm40czYzMXFuMnk4NjVkbGowaGxkdGtsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" />
+  <img align="right" alt="coding-gif" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR0NGljZWxtbmszNGltNnlxM2hnNG5ndG5meGhtc2hlemNnNWsyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aLmFULfCe7CgIGcFi1/giphy.webp" />
 
   ### 🧑‍💻 About Me
 
