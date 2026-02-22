@@ -9,6 +9,4 @@ self-taught CS student via [OSSU](https://github.com/ossu/computer-science). ear
 
 in the process of developing a project that prevents doomscrolling.
 
-open source is where I want to be — still carving the path.
-
 </div>
