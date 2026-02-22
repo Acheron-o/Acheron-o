@@ -11,6 +11,6 @@ in the process of developing a project that prevents doomscrolling.
 
 open source is where I want to be — still carving the path.
 
-📫 Discord: `fretadobaiano`
+📫 [Discord](dicordapp.com/users/1012541931278049340).
 
 </div>
