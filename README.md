@@ -4,7 +4,7 @@ I'm **Caio**, a software engineer student in Brazil <img src="https://slackmojis
 
 I currently study software engineering at **Oracle Next Education** a free educational program in Computer Science provided by [**@Oracle**](https://github.com/oracle) and [**@Alura**](https://github.com/alura-cursos), where I have been learning the foundations of DevOps, Back-end and Front-end development.
  
-I'm also fascinated by Machine Learning implementations, and open-source solutions. I want to contribute to the creation of open-source projects and automating systems in all sort of areas of application.
+I'm also fascinated by Machine Learning implementations, and Open-Source solutions. I want to contribute to the creation of Open-Source projects and automating systems in all sort of areas of application.
 
 Outside of tech-based actions, I'm interested in following the developments of science and learning different languages. I make art, read philosophy and ancient history, and play video games.
 
