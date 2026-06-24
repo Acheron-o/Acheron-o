@@ -9,7 +9,7 @@ I'm also fascinated by Machine Learning implementations, and Open-Source solutio
 Outside of tech-based actions, I'm interested in following the developments of science and learning different languages. I make art, read philosophy and ancient history, and play video games.
 
 #### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/caiotodev)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/caiotodev/)
 
 
 
